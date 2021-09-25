@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "prasanna",
+      "email": "prasanna@gmail.com",
+      "dob": "2021-07-28",
+      "id": 1
+    },
+    {
+      "username": "saumaya",
+      "email": "saumaya@gmail.com",
+      "dob": "2021-07-29",
+      "id": 2
+    },
+    {
+      "username": "rajesh",
+      "email": "rajesh@gmail.com",
+      "dob": "2021-07-31",
+      "id": 3
+    },
+    {
+      "username": "renga",
+      "email": "renga@gmail.com",
+      "dob": "2021-07-31",
+      "id": 4
+    }
+  ]
+}
